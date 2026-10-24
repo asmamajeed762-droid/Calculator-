@@ -1,4 +1,4 @@
-Scientific Calculator
+**Scientific Calculator**
 
 A feature-rich scientific calculator that works in three modes: Python GUI, Python Terminal, and Web Browser.
 
